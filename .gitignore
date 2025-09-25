@@ -1,0 +1,15 @@
+# OS 불필요 파일
+Thumbs.db
+.DS_Store
+
+# Unreal Engine 캐시/빌드 산출물
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+
+# Maya / 기타 임시파일
+*.tmp
+*.bak
+*.log
+*.autosave
